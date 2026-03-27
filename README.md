@@ -5,9 +5,15 @@
 # ProfileRegressionLandslide
 Code Profile Regression applied to Landslide data.
 
-Please run the file "profile_regression_shared.R"
+Please run the file _profile_regression_shared.R_
 
 
 
-> **Funding acknowledgement**  
-> HAIRQ-MAP — High-resolution Data Fusion for AIR Quality MAPping. University “G. d’Annunzio” of Chieti-Pescara. Funded by the National Recovery and Resilience Plan **GRINS - PE0000018 - BAC “High-Resolution Data Fusion for Air Quality Mapping - HAIRQ-MAP”**, **SPOKE 0 e 2 – CUP J33C22002910001**.
+### Funding acknowledgement
+> We acknowledge funding from the _European Union - NextGenerationEU_, research projects:
+> 
+> **PRIN2022 CoEnv - Complex Environmental Data and Modeling, 2022E3RY23 - CUP D53D23011080006**
+>
+> **PRIN PNRR 2022 (Bando 2023) SLIDE - Stochastic Modeling of Compound Events, P2022KZJTZ - CUP D53D23018920001**
+> 
+> **GRINS - PE0000018 - BAC “High-Resolution Data Fusion for Air Quality Mapping - HAIRQ-MAP”**, **SPOKE 0 e 2 – CUP J33C22002910001**.
